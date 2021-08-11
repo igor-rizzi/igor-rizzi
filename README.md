@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Igor Henrique Rizzi;
+- 👀 I’m interested in Java;
+- 🌱 I’m currently learning Java, SQL;
+- 📫 How to reach me in instagram @igorrizzi_, in linkedin https://www.linkedin.com/in/igor-henrique-rizzi-16a432208/;
