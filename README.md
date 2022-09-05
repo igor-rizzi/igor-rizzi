@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Igor Henrique Rizzi;
-- 👀 I’m interested in C# e PHP;
-- 🌱 I’m currently learning Java, C#, PHP and SQL;
-- 📫 How to reach me in instagram @igorrizzi_, in linkedin https://www.linkedin.com/in/igor-henrique-rizzi-16a432208/;
+A fascinated learner programmer
