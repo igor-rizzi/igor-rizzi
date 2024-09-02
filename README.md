@@ -3,7 +3,7 @@
 
 👨‍💻 Um pouco sobre mim 〰 A little about me
 
-- :books: Sou estudante do quinto semestre do curso de *Análise e Desenvolvimento de Sistemas* 〰 I am a fifth semester undergraduate student in *Systems Analysis and Development.*
+- :books: Sou graduado em *Análise e Desenvolvimento de Sistemas* 〰 I am a fifth semester undergraduate student in *Systems Analysis and Development.*
 - 🔭 Atualmente faço parte do time *Empresarial da Questor Sistemas* ~~~ I am currently part of the *Empresarial team at Questor Sistemas*
 - :computer: Trabalhando atualmente com as seguintes tecnologias:
 
