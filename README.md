@@ -3,7 +3,7 @@
 
 👨‍💻 Um pouco sobre mim 〰 A little about me
 
-- :books: Sou graduado em *Análise e Desenvolvimento de Sistemas* 〰 I am a fifth semester undergraduate student in *Systems Analysis and Development.*
+- :books: Sou graduado em *Análise e Desenvolvimento de Sistemas* 〰 I hold a degree in *Systems Analysis and Development.*
 - 🔭 Atualmente faço parte do time *MultiEmbarcador da NsTech* ~~~ I am currently part of the *NsTech MultiEmbarcador* team.
 
 
