@@ -4,11 +4,7 @@
 👨‍💻 Um pouco sobre mim 〰 A little about me
 
 - :books: Sou graduado em *Análise e Desenvolvimento de Sistemas* 〰 I am a fifth semester undergraduate student in *Systems Analysis and Development.*
-- 🔭 Atualmente faço parte do time *Empresarial da Questor Sistemas* ~~~ I am currently part of the *Empresarial team at Questor Sistemas*
-- :computer: Trabalhando atualmente com as seguintes tecnologias:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/>
-
+- 🔭 Atualmente faço parte do time *MultiEmbarcador da NsTech* ~~~ I am currently part of the *NsTech MultiEmbarcador* team.
 
 
 - 📫 Você pode me encontrar através do meu LinkedIn:
